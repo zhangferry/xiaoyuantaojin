@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2C41B9CC-6B87-4A5B-A793-F4BE7056FC9A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>校园淘金</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0091ca28-8cf8-41a0-bec2-27711b46c75c</key>
+		<string>svn://localhost/%E6%A0%A1%E5%9B%AD%E6%B7%98%E9%87%91</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>校园淘金.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0091ca28-8cf8-41a0-bec2-27711b46c75c</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0091ca28-8cf8-41a0-bec2-27711b46c75c</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0091ca28-8cf8-41a0-bec2-27711b46c75c</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E6%A0%A1%E5%9B%AD%E6%B7%98%E9%87%91</string>
+		</dict>
+	</array>
+</dict>
+</plist>
